@@ -6,3 +6,5 @@ class Solution:
         if len(s1-s2)==0 and len(s2-s1)==0:
             return True
         return False
+
+        
