@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 65 (1.5%)
+- **Completed:** 2 / 65 (3.1%)
 
 ---
 
@@ -71,7 +71,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Maximum Nesting Depth of the Parentheses
 - [ ] Remove Outermost Parentheses
 - [x] [Score of Parentheses](./Python/Medium/886. Score of Parentheses/)
-- [ ] Minimum Add to Make Parentheses Valid
+- [x] [Minimum Add to Make Parentheses Valid](./Python/Medium/957. Minimum Add to Make Parentheses Valid/)
 - [ ] Minimum Remove to Make Valid Parentheses
 - [ ] Minimum Insertions to Balance a Parentheses String
 
