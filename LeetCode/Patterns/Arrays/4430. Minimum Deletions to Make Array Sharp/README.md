@@ -16,7 +16,7 @@ You are given an integer array  `nums` .
 
 You may delete any number of elements from  `nums` . The remaining elements keep their original order.
 
-The resulting array  `a`  is  **sharp**  if the  **bitwise XOR**  of every pair of  **adjacent**  elements is  **non-zero** . That is,  `a[i] XOR a[i + 1] != 0`  for every index  `i`  such that  `0 <= i < a.length - 1` . An array with at most one element is sharp.
+The resulting array  `a`  is  **sharp**  if the  **bitwise XOR**  of every pair of  **adjacent**  elements is  **non-zero** . That is,  `a[i] XOR a[i + 1] != 0`  for every index  `i`  such that  `0 <= i < a.length - 1` . An array with  **at most**  one element is sharp.
 
 Return the  **minimum**  number of deletions needed to make  `nums`  sharp.
 
